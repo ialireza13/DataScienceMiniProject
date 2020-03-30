@@ -14,7 +14,7 @@ Note that for this calculation we should satisfy the conditions: 0<=p_low<=p_hig
 
 Now, you should simply import 'conditionalProb' from 'deckCalculation.Calculate' and then call it. This function asks for four values: N (total number of cards in a deck), M (number of suits to equally divide card between), p_low and p_high (as mentioned above), then prints out the results.
 
-A Jupyter notebook has also been provided with markdowns for demonstration.
+A Jupyter notebook has also been provided with markdowns for demonstration: 'deck.ipynb'
 
 #### Results:
 1) N=26, M=2: Mean:	12.00973, STD:	2.5065065982558274
